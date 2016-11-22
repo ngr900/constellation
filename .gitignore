@@ -1,3 +1,9 @@
+#npm
+
+node_modules/
+gulpfile.js
+package.json
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
