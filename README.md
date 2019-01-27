@@ -1,8 +1,8 @@
-#Constellation.js
+# Constellation.js
 
 Constellation is a simple JavaScript plugin that can draw beautiful HTML5 Canvas backgrounds, resembling star constellations. [A demo is available here](https://ngr900.github.io/constellation/).
 
-#Usage
+# Usage
 
 There are 6 different constructors you can use. The first argument is always the target element ID.
 
